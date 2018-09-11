@@ -1,0 +1,59 @@
+.name
+{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 35px;
+    
+}
+footer
+{
+    border-top: 2px solid black ;
+    padding-top: 8px;
+}
+
+#particles-js
+{
+    
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(110,194,177);
+}
+
+.navbar
+{
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
+
+
+.form-group
+{
+    
+    padding-left: 20%;
+    padding-right: 20%;
+    color: white;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.head
+{
+    color:white;
+    font-family: 'Hind', sans-serif;
+    text-align: center;
+    padding-top: 0px;
+   
+   
+   
+}
+.padtop
+{
+    padding-top: 10%;
+    
+}
+
+
+
+
+
+
